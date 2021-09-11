@@ -1,2 +1,2 @@
 # tahminetmeoyunu
-Hilesiz Türkçe şans etme oyunu
+Hilesiz Türkçe şans oyunu
